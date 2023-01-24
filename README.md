@@ -20,6 +20,12 @@ sequenceDiagram
 - Set google secret key. https://github.com/cody-elhard/nextjs-rails-omniauth-demo/blob/main/backend/config/initializers/devise.rb#L274
 - Set google client_id. https://github.com/cody-elhard/nextjs-rails-omniauth-demo/blob/main/frontend/pages/sign_in/index.tsx#L9
 
+
+
+https://user-images.githubusercontent.com/32208000/214193063-84188280-b67f-4ce8-b5b2-b4c01e2dc273.mov
+
+
+
 <br />
 <br />
 <br />
