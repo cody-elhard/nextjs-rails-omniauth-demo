@@ -16,6 +16,6 @@ sequenceDiagram
 - `cd backend && bundle && rails s`
 - `cd frontend && yar install && yarn dev`
 - `yarn run codegen` (if you want to generate types)
-### Set secrets
-- Set omniauth secret key. https://github.com/cody-elhard/nextjs-rails-omniauth-demo/blob/main/backend/config/initializers/devise.rb#L274
+### Set secrets (setup google oauth2 client credentials, https://developers.google.com/identity/protocols/oauth2)
+- Set google secret key. https://github.com/cody-elhard/nextjs-rails-omniauth-demo/blob/main/backend/config/initializers/devise.rb#L274
 - Set google client_id. https://github.com/cody-elhard/nextjs-rails-omniauth-demo/blob/main/frontend/pages/sign_in/index.tsx#L9
