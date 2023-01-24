@@ -19,3 +19,24 @@ sequenceDiagram
 ### Set secrets (setup google oauth2 client credentials, https://developers.google.com/identity/protocols/oauth2)
 - Set google secret key. https://github.com/cody-elhard/nextjs-rails-omniauth-demo/blob/main/backend/config/initializers/devise.rb#L274
 - Set google client_id. https://github.com/cody-elhard/nextjs-rails-omniauth-demo/blob/main/frontend/pages/sign_in/index.tsx#L9
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+### Donations
+[Venmo](https://account.venmo.com/u/Cody-Elhard)
+- If this saved you time, cast your vote that you would like more helpful projects in the future.
