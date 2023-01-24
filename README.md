@@ -38,5 +38,5 @@ sequenceDiagram
 <br />
 
 ### Donations
-[Venmo](https://account.venmo.com/u/Cody-Elhard)
+[Venmo @Cody-Elhard](https://account.venmo.com/u/Cody-Elhard)
 - If this saved you time, cast your vote that you would like more helpful projects in the future.
